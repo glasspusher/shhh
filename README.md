@@ -1,4 +1,4 @@
-# shhh
+# shhh test project
 
 ## Project setup
 ```
