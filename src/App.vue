@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue test.js App"/>
+  <img alt="Vue logo" src="./assets/favicon-16x16.png">
+  <HelloWorld msg="Welcome St. Huberts Hatchet House WATL Ax League stats page!"/>
 </template>
 
 <script>
