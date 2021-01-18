@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/favicon-16x16.png">
+  <img alt="SHHH logo" src="./assets/shhhLogo.png">
   <HelloWorld msg="Welcome St. Huberts Hatchet House WATL Ax League stats page!"/>
 </template>
 
